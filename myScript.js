@@ -3,7 +3,7 @@ var movies = [
 	"up",
 	"avengers",
 	"batman",
-	"Aladdin",
+	"aladdin",
 	"moana",
 	"babe",
 	"frozen",
